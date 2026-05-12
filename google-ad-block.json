@@ -1,11 +1,15 @@
 {
   "version": 1,
   "rules": [
-    { "domain_suffix": "googlesyndication.com" },
-    { "domain_suffix": "googleadservices.com" },
-    { "domain_suffix": "doubleclick.net" },
-    { "domain_suffix": "g.doubleclick.net" },
-    { "domain_suffix": "pagead2.googlesyndication.com" },
-    { "domain_suffix": "adservice.google.com" }
+    { 
+      "domain_suffix": [
+        "googlesyndication.com",
+        "googleadservices.com",
+        "doubleclick.net",
+        "g.doubleclick.net",
+        "pagead2.googlesyndication.com",
+        "adservice.google.com"
+      ] 
+    }
   ]
 }
