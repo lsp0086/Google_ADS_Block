@@ -9,7 +9,8 @@
         "g.doubleclick.net",
         "pagead2.googlesyndication.com",
         "adservice.google.com"
-      ] 
+      ],
+      "outbound": "block"
     }
   ]
 }
