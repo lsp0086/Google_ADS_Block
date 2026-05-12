@@ -1,6 +1,11 @@
-DOMAIN-SUFFIX,googlesyndication.com
-DOMAIN-SUFFIX,googleadservices.com
-DOMAIN-SUFFIX,doubleclick.net
-DOMAIN-SUFFIX,g.doubleclick.net
-DOMAIN-SUFFIX,pagead2.googlesyndication.com
-DOMAIN-SUFFIX,adservice.google.com
+{
+  "version": 1,
+  "rules": [
+    { "domain_suffix": "googlesyndication.com" },
+    { "domain_suffix": "googleadservices.com" },
+    { "domain_suffix": "doubleclick.net" },
+    { "domain_suffix": "g.doubleclick.net" },
+    { "domain_suffix": "pagead2.googlesyndication.com" },
+    { "domain_suffix": "adservice.google.com" }
+  ]
+}
